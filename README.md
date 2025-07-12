@@ -27,7 +27,7 @@ skillswap-backend/
 ├── .env
 └── package.json
 
-skillswap-frontend/
+frontend/
 ├── app/
 │ └── page.tsx
 ├── contexts/
@@ -48,7 +48,7 @@ Copy code
 
 - Node.js (v18+)
 - MongoDB Atlas account
-- Yarn or npm
+- Yarn or npm 
 
 ---
 
