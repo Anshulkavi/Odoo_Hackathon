@@ -106,8 +106,3 @@ This project is licensed under the MIT License.
 
 🙌 Contributing
 Feel free to fork, improve, and send pull requests.
-
-vbnet
-Copy code
-
-Let me know if you'd like this in downloadable form or want a badge/header/logo added.
